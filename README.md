@@ -1,2 +1,2 @@
 # small_shell
-Small shell written in C. 
+A bash-like shell written in C. 
